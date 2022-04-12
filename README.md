@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, SQL and improving my Data Science Skills
 - 💞️ I’m looking to collaborate on different project and learning more in the field of Data Science and Data Visualisation.
 - 📫 How to reach me ... --> You can contact me anytime on Threema: https://threema.id/BP4W9NEC
-- 💰 How to support me ... You can support me, by donating Basic Attention Tokens (if you use Brave Browser) over my Github Profileor buy me a coffee☕: https://www.buymeacoffee.com/ckae
+- 💰 How to support me ... You can support me, by donating Basic Attention Tokens (if you use Brave Browser) over my Github Profile or buy me a coffee☕: https://www.buymeacoffee.com/ckae
 
 <!---
 chriskaeppeli/chriskaeppeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
